@@ -1,0 +1,25 @@
+body {
+    background-color: royalblue;
+    font-family: Times New Roman;
+    color: black;
+}
+
+.container {
+    margin-top: 30px;
+    background-color: skyblue; /* White background for the container */
+    padding: 20px; /* Some padding for the content */
+    border-radius: 10px; /* Optional: rounded corners for the container */
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    color: #E6E6FA;
+    background-color: powderblue;
+    padding: 20px; /* Add the same padding as the container */
+}
+
+h1 {
+    text-align: center;
+}
